@@ -1,0 +1,17 @@
+*{padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;}
+.my-pictures-main{
+  width: 100%;
+  background: rgb(4, 19, 26);
+}
+.main-sub-holder{
+  width: 1200px;
+  margin: auto;
+  margin-top: 50px;
+}
+.my-works{
+  width: 295px;
+  height: 230px;
+  padding: 5px;
+}
